@@ -1,0 +1,16 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    background-color: aquamarine;
+    color: gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /*border: 1px solid gray;*/
+    border-radius: 5px;
+}
+
+.head
+{
+    margin : 0 15px;
+}
