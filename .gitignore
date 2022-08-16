@@ -1,3 +1,6 @@
 tmp/*
 hello/*
 *.txt
+*.docx
+*.pptx
+*.xls
